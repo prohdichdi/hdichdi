@@ -1,0 +1,21 @@
+# single line comment
+
+// single line comment
+
+/* multiline
+comment */
+
+key1: single line string
+
+key2:
+'''
+multiline
+string
+'''
+
+key3: [ value 1
+        value 2
+        value 3 ]
+
+key4: { key1: string
+        key2: 0 }
